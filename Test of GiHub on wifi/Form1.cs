@@ -16,5 +16,10 @@ namespace Test_of_GiHub_on_wifi
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("hi");
+        }
     }
 }
